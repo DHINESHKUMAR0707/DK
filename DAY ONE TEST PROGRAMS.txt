@@ -1,0 +1,8 @@
+Q1:
+a=int(input())
+b=int(input())
+c=2*(a+b)
+d=a*b
+print("Length of the tape",c)
+print("Quantity of the carpet",d)
+Q2:
